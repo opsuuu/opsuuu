@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 👋 Hi, I’m Wendy Lai. 
 - 🌱 I’m a Frontend Engineer. 
 - ✨ LOVE cycling and caring for small animals. 
