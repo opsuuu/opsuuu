@@ -1,7 +1,7 @@
 # 𝐇𝐢, 𝐈’𝐦 𝐖𝐞𝐧𝐝𝐲 𝐋𝐚𝐢 👋 
 
 ### 🌱About me
-👀 𝙈𝘽𝙏𝙄 - 𝙄𝙉𝙁𝙋
+👀 𝙈𝘽𝙏𝙄 - 𝙄𝙉𝙁𝙋       
 我是來自台灣的前端工程師。畢業於淡江大學法文系，我對前端開發有著滿腔的熱情，這份熱情驅使我從法文和電商產業跨領域轉到了前端開發。儘管我在前端領域仍屬於新手，但我致力於透過不斷學習來深化我的技術。    
 I am a Frontend Engineer from Taiwan. Graduating with a degree in French from Tamkang University, I have a profound passion for frontend development.         
 This passion has driven me to transition from French and the e-commerce industry to frontend development. Although I am still a novice in the frontend domain, I am committed to deepening my technical skills through continuous learning.
