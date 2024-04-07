@@ -16,7 +16,7 @@ During this period, I participated in the development of a third-party e-commerc
 I aim to leverage my interdisciplinary background and the spirit of continuous learning to bring unique advantages to the frontend development field, overcome more challenges, and acquire more skills.
 
 ### Things I code with
-![React]([https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white](https://camo.githubusercontent.com/9d2a57d80adb8a39299fa916e13f34b0125fd3ed1aaed80c324061fc153810ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742e6a732d3631646166623f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d666666666666))
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 
 ### How to reach me
