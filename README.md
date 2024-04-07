@@ -15,7 +15,7 @@ During this period, I participated in the development of a third-party e-commerc
 我希望能夠利用我的跨領域背景和持續學習的精神，在前端開發領域中發揮獨特的優勢，突破更多的挑戰，學習更多的技能。        
 I aim to leverage my interdisciplinary background and the spirit of continuous learning to bring unique advantages to the frontend development field, overcome more challenges, and acquire more skills.
 
-### Things I code with
+## Things I code with
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
