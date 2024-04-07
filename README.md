@@ -16,4 +16,5 @@ I aim to leverage my interdisciplinary background and the spirit of continuous l
 
 ### How to reach me
 - 📫 Reach Me: E-mail: wendy229880@gmail.com.
+- [我的履歷傳送門](https://drive.google.com/file/d/1Mu9adR9QYWxT2agKG48KV8E77aZSHqcz/view?usp=sharing)
 
