@@ -2,18 +2,16 @@
 
 ### 🌱About me
 👀 𝙈𝘽𝙏𝙄 - 𝙄𝙉𝙁𝙋       
-我是來自台灣的前端工程師。畢業於淡江大學法文系，我對前端開發有著滿腔的熱情，這份熱情驅使我從法文和電商產業跨領域轉到了前端開發。儘管我在前端領域仍屬於新手，但我致力於透過不斷學習來深化我的技術。    
-I am a Frontend Engineer from Taiwan. Graduating with a degree in French from Tamkang University, I have a profound passion for frontend development.         
-This passion has driven me to transition from French and the e-commerce industry to frontend development. Although I am still a novice in the frontend domain, I am committed to deepening my technical skills through continuous learning.
-
-### 🐾學習之旅
-為了鞏固我的前端開發技能，我在資展國際完成了570小時的前端工程師專業訓練。在此期間，我參與了一個第三方電商平台專案的開發，主要負責購物車結帳流程的功能實現，使用了React和Node Express技術。       
-To solidify my frontend development skills, I completed 570 hours of professional training as a Frontend Engineer at iSpan (Institute for Information Industry).       
-During this period, I participated in the development of a third-party e-commerce platform project, primarily responsible for implementing the shopping cart checkout process, utilizing React and Node Express technologies.
-
-### ✨未來展望
-我希望能夠利用我的跨領域背景和持續學習的精神，在前端開發領域中發揮獨特的優勢，突破更多的挑戰，學習更多的技能。        
-I aim to leverage my interdisciplinary background and the spirit of continuous learning to bring unique advantages to the frontend development field, overcome more challenges, and acquire more skills.
+我是來自台灣的前端工程師，對於創新設計和優化使用者體驗充滿熱情！      
+在我參與的570小時專業訓練課程中，我深入學習了React和Next.js進行組件化開發，並利用Node.js實現資料庫連接。         
+更在團隊項目中扮演核心角色，包括技術指導、進度追蹤和Git流程規劃，解決技術衝突並構建了穩定的client/server開發環境，使團隊能夠高效合作。     
+我熱衷於分享知識、解決問題，並幫助團隊克服技術挑戰，推動專案成功。     
+I am a frontend engineer from Taiwan, passionate about innovating design and optimizing user experiences!       
+Throughout my 570-hour professional training course, I delved deeply into component-based development using React and Next.js, and utilized Node.js for database connectivity.     
+In team projects, I played a pivotal role, including providing technical guidance, tracking progress, and planning Git workflows.     
+I resolved technical conflicts and established a stable client/server development environment, enabling efficient team collaboration.      
+I am enthusiastic about sharing knowledge, solving problems, and helping the team overcome technical challenges to drive project success.      
+  
 
 ## Things I code with
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
